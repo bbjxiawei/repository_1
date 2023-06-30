@@ -1,2 +1,2 @@
-# repository_1
+# repository_1_算法练习
 practice

@@ -8,7 +8,6 @@ public class Demo_1768 {
      *     返回 合并后的字符串 。
      */
 
-
     // public static String mergeAlternately(String word1, String word2) {
     //     //定义两个指针
     //     int w1 = 0, w2 = 0;
